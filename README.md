@@ -1,2 +1,2 @@
 # madeindex.github.io
-The MadeIndex.org project repository
+The [MadeInDex.org](https://madeindex.org) project repository
